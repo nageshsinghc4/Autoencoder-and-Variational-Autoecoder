@@ -23,4 +23,8 @@ An autoencoder consists of two primary components:
 Variational autoencoder(VAE) is a slightly more modern and interesting take on autoencoding.
 
 
+![VAE](https://raw.githubusercontent.com/nageshsinghc4/Autoencoder-and-Variational-Autoecoder/main/3eee0b_57ed12aab2954af8adada1ef6b1d37b3_mv2.webp)
+
 A Variational autoencoder(VAE) assumes that the source data has some sort of underlying probability distribution (such as Gaussian) and then attempts to find the parameters of the distribution. Implementing a variational autoencoder is much more challenging than implementing an autoencoder. The one main use of a variational autoencoder is to generate new data that’s related to the original source data. Now exactly what the additional data is good for is hard to say. A variational autoencoder is a generative system and serves a similar purpose as a generative adversarial network (although GANs work quite differently).
+
+To understand the intuition and mathematics behind these Autoencoders, please check [theaidream.com](https://www.theaidream.com/post/an-introduction-to-autoencoder-and-variational-autoencoder-vae)
