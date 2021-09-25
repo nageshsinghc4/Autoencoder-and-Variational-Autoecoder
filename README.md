@@ -4,6 +4,7 @@
 
 Autoencoders (AE) are neural networks that aim to copy their inputs to their outputs. They work by compressing the input into a latent-space representation and then reconstructing the output from this representation.
 
+![Autoencoder](https://github.com/nageshsinghc4/Autoencoder-and-Variational-Autoecoder/blob/main/3eee0b_b9824728c9a845a18c083f3b76736cbf_mv2.webp)
 
 An autoencoder consists of two primary components:
 
