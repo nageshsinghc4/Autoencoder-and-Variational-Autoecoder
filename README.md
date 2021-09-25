@@ -16,3 +16,11 @@ An autoencoder consists of two primary components:
 **Bottleneck/Latent space**: The layer that contains the compressed representation of the input data.
 
 **Reconstruction loss**: The method measures how well the decoder is performing, i.e. measures the difference between the encoded and decoded vectors. Lesser the better.
+
+
+### What is Variational Autoencoder(VAE)?
+
+Variational autoencoder(VAE) is a slightly more modern and interesting take on autoencoding.
+
+
+A Variational autoencoder(VAE) assumes that the source data has some sort of underlying probability distribution (such as Gaussian) and then attempts to find the parameters of the distribution. Implementing a variational autoencoder is much more challenging than implementing an autoencoder. The one main use of a variational autoencoder is to generate new data that’s related to the original source data. Now exactly what the additional data is good for is hard to say. A variational autoencoder is a generative system and serves a similar purpose as a generative adversarial network (although GANs work quite differently).
