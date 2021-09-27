@@ -20,7 +20,7 @@ An autoencoder consists of two primary components:
 
 ### What is Variational Autoencoder(VAE)?
 
-Variational autoencoder(VAE) is a slightly more modern and interesting take on autoencoding.
+**Variational autoencoder(VAE)** is a slightly more modern and interesting take on autoencoding.
 
 
 ![VAE](https://raw.githubusercontent.com/nageshsinghc4/Autoencoder-and-Variational-Autoecoder/main/3eee0b_57ed12aab2954af8adada1ef6b1d37b3_mv2.webp)
